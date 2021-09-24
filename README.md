@@ -1,5 +1,5 @@
 # GitHub Pages
- quatis.tech
+ http://quatis.tech
 # Checkist
 
 Caixas de Diálogo
